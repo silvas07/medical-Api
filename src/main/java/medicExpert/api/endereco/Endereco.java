@@ -29,5 +29,4 @@ public class Endereco {
         this.cidade=dados.cidade();
         this.uf= dados.uf();
     }
-
     }
